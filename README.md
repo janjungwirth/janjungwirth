@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on anything that helps paramedics make theyr work easyer
 - 📫 How to reach me here on Github
 - 💻 Coding in:
-  C/C++ advanced level
-  Java beginner level
-  Python medium level
-  HTML/CSS beginner level
+C/C++ advanced level; 
+Java beginner level; 
+Python medium level; 
+HTML/CSS beginner level;
 
 Currently happy employed @ Expleo Group Austria. 
