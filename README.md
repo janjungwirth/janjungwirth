@@ -3,6 +3,10 @@
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on anything that helps paramedics make theyr work easyer
 - 📫 How to reach me here on Github
-- 💻 Coding in: C/C++, Java, Python, HTML/CSS
+- 💻 Coding in:
+  C/C++ advanced level
+  Java beginner level
+  Python medium level
+  HTML/CSS beginner level
 
-Currently not searching employment. 
+Currently happy employed @ Expleo Group Austria. 
